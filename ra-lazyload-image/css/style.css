@@ -1,0 +1,5 @@
+.lazy-background {
+  display: block;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
