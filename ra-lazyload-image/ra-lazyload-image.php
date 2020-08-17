@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Recent Articles Lazyload Image
-Plugin URI: https://github.com/JulianSuringa/plugins/ra-lazyload-image
+Plugin URI: https://github.com/JulianSuringa/plugins/tree/master/ra-lazyload-image
 Description: Specefic lazyload image in recent articles
 Version: 1.0.0
 Author:  Julian SUringa
